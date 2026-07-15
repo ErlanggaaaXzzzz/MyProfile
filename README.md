@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/yc80mx.jpg" width="180" alt="Profile"/>
+<img src="https://files.catbox.moe/1tlzfa.jpg" width="180" alt="Profile"/>
 
 # 👋 Hi, I'm Erlangga
 
